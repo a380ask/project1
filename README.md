@@ -1,5 +1,7 @@
 # Project 1
 
+Video Walkthrough: https://youtu.be/BXHmOZNbHjc
+
 Web Programming with Python and JavaScript
 
 application.py: This is the main file that defines the routes for the various pages in my project. 
